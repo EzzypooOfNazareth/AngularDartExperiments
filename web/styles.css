@@ -1,15 +1,17 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Material+Icons);
 
 /* Master Styles */
 h1 {
   color: #369;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
   font-size: 250%;
 }
 h2, h3 {
   color: #444;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
   font-weight: lighter;
 }
 body {
@@ -113,5 +115,5 @@ nav a.active {
 }
 /* everywhere else */
 * {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
